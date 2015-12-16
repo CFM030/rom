@@ -1,0 +1,6 @@
+Global Ignore /* create in home folder  */ 
+.gitignore_global
+/* Add in  */
+.DS_Store
+.Trashes
+.Spotlight_V100
